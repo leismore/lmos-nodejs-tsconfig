@@ -37,6 +37,13 @@ GNU GENERAL PUBLIC LICENSE v3
 
 * [Kyle Chine](https://kyle-chine.leismore.co) since 11 Oct 2019
 
+## References
+
+* TypeScript Handbook - Project Configuration: What is a tsconfig.json <https://www.typescriptlang.org/docs/handbook/tsconfig-json.html>
+
+
+
+
 ---
 
 [![Leismore Logo](https://logos.leismore.co/en/3-0-0/light/textual-margins.svg)](https://lmos.leismore.org)
