@@ -4,7 +4,7 @@ The `tsconfig.json` file for [LMOS for Node.js](https://nodejs.lmos.leismore.org
 
 ## Environment
 
-* Node.js     18
+* Node.js     20
 * TypeScript  5
 
 ## Directory Structure
@@ -29,7 +29,7 @@ The `tsconfig.json` file for [LMOS for Node.js](https://nodejs.lmos.leismore.org
 
 ## License
 
-© [Leismore](https://www.leismore.co) 2023
+© [Leismore](https://www.leismore.co) 2024
 
 GNU GENERAL PUBLIC LICENSE v3
 
